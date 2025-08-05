@@ -1,6 +1,6 @@
 # Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025] 🚀
 
-![Machine Learning](https://d3caycb064h6u1.cloudfront.net/wp-content/uploads/2025/02/what-is-machine-learning-and-machine-learning-techniques-67bc2a273a4f0-e1740981449660.webp)
+![Machine Learning](https://techblog.smc.it/static/c5256a11117134b1d5f3bd35c479db40/a41d1/ml.jpg)
 
 
 ## 📚 Course Overview
